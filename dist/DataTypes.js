@@ -10,4 +10,6 @@ var age = 19;
 var myName = "James";
 var myProfile = "I'm " + myName + " , I'm " + age + " year olds.";
 //---------------------------------
-console.log(myProfile);
+var list = [1, 2, 3];
+var numList = [1, 2, 3, 4, 5];
+numList.forEach(function (n) { return console.log(n); });
