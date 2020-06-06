@@ -11,4 +11,6 @@ const myProfile: string = `I'm ${myName} , I'm ${age} year olds.`;
 //---------------------------------
 const list: number[] = [1, 2, 3];
 const numList: Array<number> = [1, 2, 3, 4, 5];
+//----------------------------------
+
 numList.forEach((n) => console.log(n));
