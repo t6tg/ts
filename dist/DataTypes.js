@@ -30,4 +30,5 @@ var notSure = 4;
 //---------------------------------
 var someValue = "Hello from the other side.";
 var strLength = someValue.length;
-console.log(strLength);
+// console.log(strLength);
+//---------------------------------
